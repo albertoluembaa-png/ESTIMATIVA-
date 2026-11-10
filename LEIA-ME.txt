@@ -1,0 +1,13 @@
+ESTIMATIVA — versão demonstrativa para publicação no GitHub Pages
+
+1. Envia todos os ficheiros para a raiz do repositório.
+2. No GitHub, abre Definições > Pages.
+3. Em publicação, escolhe Deploy from a branch, main e /(root), e guarda.
+4. Aguarda a publicação e abre o endereço apresentado no Safari.
+5. No Safari: Partilhar > Adicionar ao ecrã principal.
+
+IMPORTANTE:
+- Protótipo não auditado. Não guardes palavras-passe reais.
+- Não oferece Face ID nem preenchimento automático nativo do iOS.
+- Os dados ficam apenas no armazenamento local do navegador; limpar os dados do Safari pode apagá-los.
+- O cofre de demonstração usa criptografia Web Crypto, mas não é uma solução certificada para credenciais reais.
